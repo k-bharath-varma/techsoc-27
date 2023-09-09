@@ -18,6 +18,8 @@ class student {
       roll = Roll;
       cgpa = Gpa;
       conduct = Conduct;
+
+      
    }
 };
 
